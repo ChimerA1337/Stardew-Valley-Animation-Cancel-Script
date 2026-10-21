@@ -8,4 +8,4 @@ The timings on this script are very generous, feel free to adjust them.
 - pynput, https://pypi.org/project/pynput/
 
 # Demonstratration
-[2026-10-21 18-57-35(1).webm](https://github.com/user-attachments/assets/0078a031-3845-47e6-855f-c176db60008c)
+[medium.webm](https://github.com/user-attachments/assets/adf0e725-97e6-41f8-bfe6-f7f5a025df73)
