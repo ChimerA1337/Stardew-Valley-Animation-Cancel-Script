@@ -8,4 +8,10 @@ The timings on this script are very generous, feel free to adjust them.
 - pynput, https://pypi.org/project/pynput/
 
 # Demonstratration
-[![Video Title](https://img.youtube.com/vi/jY188yvCqKI/0.jpg)](https://www.youtube.com/watch?v=jY188yvCqKI)
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/jY188yvCqKI"
+  title="Stardew Valley Animation Cancel Demo"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
